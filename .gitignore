@@ -3,5 +3,5 @@
 .vscode/
 .venv/
  __pycache__/
-
 notes.txt
+env.py
