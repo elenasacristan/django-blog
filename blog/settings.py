@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','https://project-mini-blog-app.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','project-mini-blog-app.herokuapp.com']
 
 
 # Application definition
